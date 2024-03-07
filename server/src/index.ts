@@ -1,1 +1,3 @@
-console.info('hello whaflux')
+import { waClient } from './shared/waClient'
+
+waClient.initialize()

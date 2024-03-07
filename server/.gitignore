@@ -1,4 +1,11 @@
+# Node
 node_modules
 .env
 
+# WhastsApp WEB JS
+.wwebjs_auth
+.wwebjs_cache
+*.zip
+
+# System
 .DS_Store
