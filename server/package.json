@@ -11,11 +11,11 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@jsfelix/eslint-config": "^1.2.8",
-    "@types/node": "^20.11.25",
-    "eslint": "^8.57.0",
-    "tsup": "^8.0.2",
-    "tsx": "^4.7.1",
-    "typescript": "^5.4.2"
+    "@jsfelix/eslint-config": "1.2.8",
+    "@types/node": "20.11.25",
+    "eslint": "8.57.0",
+    "tsup": "8.0.2",
+    "tsx": "4.7.1",
+    "typescript": "5.4.2"
   }
 }
